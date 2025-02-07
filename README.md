@@ -1,6 +1,6 @@
-# Competitive Programming Solutions
+# Programming Solutions
 
-Welcome to my Competitive Programming repository! Here, you'll find my solutions to various problems from Codeforces and other competitive programming platforms. This repository serves as a personal archive of my coding practices and problem-solving techniques.
+Welcome to my Competitive Programming repository! Here, you'll find my solutions to various problems from Codeforces, Leetcode, GeeksForGeeks, and other programming platforms. This repository serves as a personal archive of my coding practices and problem-solving techniques.
 
 ## Table of Contents
 
@@ -18,14 +18,23 @@ This repository contains my solutions to problems I've solved on [Codeforces](ht
 ## Languages Used
 
 - C++
-- Python
-
-Feel free to explore the code written in these languages!
 
 ## Folder Structure
 
 The repository is organized as follows:
-/Codeforces ├── Problem_1 │ ├── solution.cpp │ └── README.md ├── Problem_2 │ ├── solution.py │ └── README.md └── ...
+/Leetcode
+├── Problem_1
+│ ├── solution.cpp
+│ └── README.md
+/Codeforces
+├── Problem_1
+│ ├── solution.cpp
+│ └── README.md
+/GeeksforGeeks
+├── Problem_1
+│ ├── solution.cpp
+│ └── README.md
+└── ...
 
 
 - Each problem is stored in its own folder, named according to the problem title or number.
@@ -38,11 +47,11 @@ To run the solutions, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amnxd/cp-cf.git
+   git clone https://github.com/amnxd/programming.git
    ```
 2. Navigate to the desired problem's folder:
    ```bash
-   cd cp-cf/bits
+   cd programming/Leetcode/Problem_1
    ```
 3. Compile and run the code (for C++):
    ```bash
@@ -52,7 +61,6 @@ To run the solutions, follow these steps:
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue to discuss your ideas.
-
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
