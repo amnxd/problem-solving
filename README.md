@@ -1,4 +1,4 @@
-# Programming Solutions.
+# Programming Solutions..
 
 Welcome to my Competitive Programming repository! Here, you'll find my solutions to various problems from Codeforces, Leetcode, GeeksForGeeks, and other programming platforms. This repository serves as a personal archive of my coding practices and problem-solving techniques.
 
