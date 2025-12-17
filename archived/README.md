@@ -1,4 +1,4 @@
-# Programming Solutions..
+old # Programming Solutions..
 
 Welcome to my Competitive Programming repository! Here, you'll find my solutions to various problems from Codeforces, Leetcode, GeeksForGeeks, and other programming platforms. This repository serves as a personal archive of my coding practices and problem-solving techniques.
 
@@ -36,7 +36,6 @@ The repository is organized as follows:
 │ └── README.md
 └── ...
 
-
 - Each problem is stored in its own folder, named according to the problem title or number.
 - The `solution.*` files contain the code for the respective problem.
 - Each folder may also contain a `README.md` file with details about the problem, my thought process, and any relevant notes.
@@ -60,7 +59,9 @@ To run the solutions, follow these steps:
    ```
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue to discuss your ideas.
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
 
+Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue to discuss your ideas.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
